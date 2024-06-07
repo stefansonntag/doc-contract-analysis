@@ -1,0 +1,11 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "_site",
+    "template",
+    "_includes",
+    "_layouts",
+    "_sass",
+    "assets"
+  ]
+}
